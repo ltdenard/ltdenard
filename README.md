@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm @ltdenard
 
 I'm a passionate developer, Linux enthusiast, and cybersecurity tinkerer.  
-I spend my time building tools that automate, protect, and empower—from AI-powered scambaiting to distro discovery engines and cybersecurity collections.
+I build tools that automate, protect, and empower—from AI-powered scambaiting to large-scale link crawling and IP reputation tracking.
 
 ---
 
@@ -11,13 +11,14 @@ I spend my time building tools that automate, protect, and empower—from AI-pow
 - 💻 Automation & scripting
 - 🎣 Scambaiting with AI
 - 🧰 Ethical hacking & cybersecurity
+- 🌐 Threat intelligence & crawling infrastructure
 - 🎵 Music tech, 3D printing, and custom setups
 
 ---
 
 ## 🚀 Featured Projects
 
-Here are some of the GitHub organizations I’ve founded or actively contribute to:
+Here are some of the GitHub organizations and tools I’ve founded or contribute to:
 
 ### 🎣 [BaitNet](https://github.com/BaitNet)  
 AI-powered scambaiting tool that responds to scammers, wastes their time, and classifies scam types using natural language processing.
@@ -27,6 +28,18 @@ An automated assistant for discovering, downloading, and managing Linux distribu
 
 ### 💻 [H4CK-7H3-P14N37](https://github.com/H4CK-7H3-P14N37)  
 A curated collection of cybersecurity tools, resources, and experimental code for red teaming, blue teaming, and everything in between.
+
+---
+
+## 🌐 Web Projects
+
+### 🕵️‍♂️ [iprep.lcrawl.com](https://iprep.lcrawl.com)  
+Search IP reputations with support for CIDR ranges, historical blacklist tracking, and C2 infrastructure tagging.  
+Built for threat hunters, SOC teams, and anyone looking to dig into IP behavior over time.
+
+### 🔍 [lcrawl.com](https://lcrawl.com)  
+Distributed web crawler powered by AWS Lambda and headless browsers.  
+Crawls URLs at scale, performs static source code analysis, and identifies potentially malicious or interesting behaviors.
 
 ---
 
